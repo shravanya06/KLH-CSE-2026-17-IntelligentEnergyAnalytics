@@ -58,9 +58,11 @@ The project is currently in the planning and development phase.
 
 ## Current Phase Status
 
-**Current Phase:** Review-1 / Review-2 Project Development
+**Current Phase:** Review-2 Completed / Implementation Phase
 
 ### Completed
+Review-1 presentation
+Review-2 presentation
 
 * Problem statement
 * Project abstract

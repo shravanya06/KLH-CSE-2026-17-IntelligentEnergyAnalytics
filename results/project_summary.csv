@@ -1,0 +1,12 @@
+Metric,Value
+Total_Records,19735.0
+Anomalies_Detected,2138.0
+Anomaly_Percentage,10.83
+Peak_Hour,18.0
+Peak_Average_Energy_Wh,190.36
+Lowest_Hour,3.0
+Lowest_Average_Energy_Wh,48.24
+Baseline_R2,0.5598
+Improved_R2,-0.6304
+Improved_MAE_Wh,81.88
+Improved_RMSE_Wh,116.12
